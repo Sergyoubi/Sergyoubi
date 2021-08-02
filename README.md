@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Sergy. I am a Node.js and Vue.js Developer
-- 👀 I’m passionate about programming and web development. 
+- 👋 Hi, my name is @Sergy. I am a web developer specialized in Frontend 
 
 <!---
 Sergyoubi/Sergyoubi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
