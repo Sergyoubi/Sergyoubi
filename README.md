@@ -1,4 +1,4 @@
-- 👋 Hi, my name is @Sergy. I am a web developer specialized in Frontend 
+- 👋 Hi, my name is @Ethan_Sergy. I am a Full-stack developer (React, NextJS, NodeJS,...)
 
 <!---
 Sergyoubi/Sergyoubi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
