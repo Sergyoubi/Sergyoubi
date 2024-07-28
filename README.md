@@ -1,4 +1,6 @@
-👋 Hi, my name is @Ethan. I am a Full-stack developer (React, NextJS, NodeJS, AI,...) and I enjoy building SaaS.
+👋 Hi, my name is @Ethan. 
+
+I am a Full-stack developer (React, NextJS, NodeJS, AI,...) and I enjoy building SaaS.
 - I collaborate remotely with amazing Devs.
 
 - My My Tech stack are:
