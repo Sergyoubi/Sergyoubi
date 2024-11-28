@@ -1,7 +1,7 @@
 👋 Hello, my name is @Ethan. 
 
 I am a Senior full-stack developer and I enjoy building SaaS (NextJS, TypeScript, NodeJS,...)
-- I collaborate remotely with exceptional Devs
+- I collaborate remotely with exceptional Devs.
 
 - My Tech stack are:
 
