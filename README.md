@@ -1,4 +1,4 @@
-👋 Hello, my name is @Sergy
+👋 Hello, my name is @Sergy!
 
 I am a Senior Full-stack developer and I enjoy building SaaS (NextJS, TypeScript, NodeJS,...)
 - I collaborate remotely with exceptional Devs
